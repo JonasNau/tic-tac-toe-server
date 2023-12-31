@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "mongodb": "^4.6.0",
+    "nodemon": "^2.0.16",
+    "socket.io": "^4.5.0"
+  },
+  "scripts": {
+    "startServer": "nodemon server.js",
+    "sayhello": "echo hello"
+  },
+  "name": "server",
+  "version": "1.0.0",
+  "main": "server.js",
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
